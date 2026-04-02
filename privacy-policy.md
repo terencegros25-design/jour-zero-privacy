@@ -1,4 +1,4 @@
-POLITIQUE DE CONFIDENTIALITÉ
+index.html
 Application Jour Zéro
 Dernière mise à jour : avril 2026
  
